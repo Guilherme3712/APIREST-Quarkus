@@ -18,11 +18,11 @@
 
 Cliente
 
-https://api.postman.com/collections/29935000-df2ce230-03d9-4ca1-b6f4-1eccaf7941db?access_key=
+https://api.postman.com/collections/29935000-df2ce230-03d9-4ca1-b6f4-1eccaf7941db?access_key=PMAT-01HF7SQQWW1TZ1AB7P6N26CBM6
 
 Contas
 
-https://api.postman.com/collections/29935000-e2b3f969-1362-40e0-a4c9-b66eb36e852f?access_key=
+https://api.postman.com/collections/29935000-e2b3f969-1362-40e0-a4c9-b66eb36e852f?access_key=PMAT-01HF7SPWBPQXW9X59TF9B77E1Y
 
 ## By
 `Guilherme Alves`
