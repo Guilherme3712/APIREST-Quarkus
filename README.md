@@ -1,8 +1,10 @@
 # Quarkus - APIREST CRUD
 
-Programa que Cria, Lista, Altera e Deleta clientes.
+## Funcionalidades
 
-Programa que Cria, Lista, Saca, Deposita, Transfere e Deleta contas correntes.
+- Cria, Lista, Altera e Deleta clientes.
+
+- Cria, Lista, Saca, Deposita, Transfere e Deleta contas correntes.
 
 ## Iniciar projeto
 
