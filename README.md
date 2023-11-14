@@ -22,7 +22,7 @@ https://api.postman.com/collections/29935000-df2ce230-03d9-4ca1-b6f4-1eccaf7941d
 
 Contas
 
-https://api.postman.com/collections/29935000-e2b3f969-1362-40e0-a4c9-b66eb36e852f?access_key=PMAT-01HF7SPWBPQXW9X59TF9B77E1Y
+https://www.postman.com/guimatheus/workspace/workspace/collection/29935000-f387740a-15a7-4ffb-8e55-d47d604ac723?action=share&creator=29935000
 
 ## By
 `Guilherme Alves`
