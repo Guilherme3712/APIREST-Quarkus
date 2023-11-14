@@ -18,7 +18,7 @@
 
 Cliente
 
-https://api.postman.com/collections/29935000-df2ce230-03d9-4ca1-b6f4-1eccaf7941db?access_key=PMAT-01HF7SQQWW1TZ1AB7P6N26CBM6
+https://www.postman.com/guimatheus/workspace/workspace/collection/29935000-94b9207f-98a3-4769-8573-cc65ca14d3b9?action=share&creator=29935000
 
 Contas
 
