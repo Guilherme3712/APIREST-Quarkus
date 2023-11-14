@@ -2,9 +2,9 @@
 
 ## Funcionalidades
 
-- Cria, Lista, Altera e Deleta clientes.
+- Criar, Listar, Alterar e Deletar clientes.
 
-- Cria, Lista, Saca, Deposita, Transfere e Deleta contas correntes.
+- Criar, Listar, Sacas, Depositar, Transferir e Deletar contas correntes.
 
 ## Iniciar projeto
 
